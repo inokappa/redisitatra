@@ -4,6 +4,7 @@ GEM
     backports (3.3.3)
     eventmachine (1.0.3)
     hiredis (0.4.5)
+    json (1.8.0)
     rack (1.5.2)
     rack-protection (1.5.0)
       rack
@@ -29,6 +30,7 @@ PLATFORMS
 
 DEPENDENCIES
   hiredis
+  json
   redis
   sinatra
   sinatra-contrib
