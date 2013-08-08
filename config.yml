@@ -1,0 +1,3 @@
+host : 172.16.80.68
+port : 6379    
+driver : hiredis
